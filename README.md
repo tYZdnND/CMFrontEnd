@@ -1,5 +1,7 @@
 # CMFrontEnd
 Contact Management Front End Vue JS
+Setup localhost:port (same as Swagger page) in variables.js file
+![image](https://github.com/tYZdnND/CMFrontEnd/assets/135708899/7fb7985c-0c35-4f7e-80b9-13988f439eb4)
 Open the webpage index.html file
 ![image](https://github.com/tYZdnND/CMFrontEnd/assets/135708899/6dac2ead-94b7-4db7-99e5-5e5f9ea97193)
 Contact list page
